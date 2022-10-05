@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CRYPTO</string>
+    <string name="coinBaslik">BITCOIN</string>
+    <string name="alimMiktar">Purchase Quantity:</string>
+        <string name="satimMiktar">Sales Quantity:</string>
+    <string name="oran1">%25</string>
+    <string name="oran2">%50</string>
+    <string name="oran3">%75</string>
+    <string name="oran4">%100</string>
+    <string name="fiyatYazi">19.893,90 $</string>
+    <string name="butonYazi1">BUY</string>
+    <string name="butonYazi2">SELL</string>
+</resources>
